@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2ndproject</string>
+    <string name="login">Login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login1">Login</string>
+    <string name="not_yet_register_signup_now">Not yet register signup Now</string>
+</resources>
